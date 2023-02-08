@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antiscanner", "Antiscanner.csproj", "{7F266E21-608E-4709-A601-EC931491FA19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F266E21-608E-4709-A601-EC931491FA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F266E21-608E-4709-A601-EC931491FA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F266E21-608E-4709-A601-EC931491FA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F266E21-608E-4709-A601-EC931491FA19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A6897C8-0275-4847-8284-2F7668C29FD0}
+	EndGlobalSection
+EndGlobal
